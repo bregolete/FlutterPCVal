@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977790316763",
+    "project_id": "fluttercampus-64d74",
+    "storage_bucket": "fluttercampus-64d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977790316763:android:347bf9ba17153cfc835cfe",
+        "android_client_info": {
+          "package_name": "com.fluttercampus.chatapp.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977790316763-nect28p043qbucvjnt825co13jf7qh4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA57CUl9Jp6h8pDL2TEcEhtbEjFn9jZU-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977790316763-nect28p043qbucvjnt825co13jf7qh4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
